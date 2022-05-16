@@ -1,2 +1,0 @@
-# spyhenrry
-curso de programacion 
